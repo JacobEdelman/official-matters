@@ -1,7 +1,10 @@
 The government of #`, according to the referendum of its members,
 
 1. Declares #` a sovereign state;
-2. Acknowledges that this does not give it any territory or stop its members or government from being bound to the laws of the states in which they currently reside;
+2. Acknowledges that this does not give it any territory or stop its members or
+   government from being bound to the laws of the states in which they
+   currently reside;
 3. Invites any established state to establish diplomatic relations with #`;
-4. Vows not to commit violence of any sort, or any other act, against anyone or anything, as #`; and
+4. Vows not to commit violence of any sort, or any other act, against anyone or
+   anything, as #`; and
 5. Resolves to remain actively seized of the matter.
